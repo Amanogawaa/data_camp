@@ -1,0 +1,53 @@
+
+- **What is Data Science?**
+    - Data science involves methodologies for collecting and analyzing vast amounts of data to extract meaningful insights.
+    - Every digital interaction (likes, clicks, purchases) contributes to data that can describe the present or predict the future.
+- **What Can Data Do?**
+    - Data can **describe** (e.g., energy consumption dashboards), **detect anomalies** (e.g., fraud detection), **diagnose causes** (e.g., user behavior on Spotify/Netflix), and **predict** future events (e.g., population growth).
+    - Predictions can also include probability assessments to quantify uncertainty.
+- **Why is Data Science Popular Now?**    
+    - The increasing volume of collected data makes analysis more valuable.
+    - Businesses combine data from various sources (e.g., car dealership purchases + social media activity) to create detailed consumer profiles, optimizing marketing and decision-making.
+- **The Data Science Workflow:**
+    - **Data Collection** – Gathering data from multiple sources (surveys, wweb traffic, transactions).
+    - **Data Preparation** – Cleaning and organizing data for usability.
+    - **Exploration & Visualization** – Building dashboards, tracking trends, and comparing datasets.
+    - **Experimentation & Prediction** – Running analyses to forecast trends (e.g., temperature changes, website performance).
+
+## Application of Data Science
+- **Introduction to Applications**
+    - Data science can be applied to real-world problems, such as fraud detection, IoT, and deep learning.
+- **Fraud Detection (Machine Learning)**
+    - Banks use machine learning to predict fraudulent transactions by analyzing purchase details (amount, date, location).
+    - Historical data (training data) helps build an algorithm that assesses the probability of fraud.
+- **Requirements for Machine Learning**
+    - A **well-defined question** (e.g., "Is this transaction fraudulent?").
+    - **Historical data** with labeled examples (fraudulent or valid transactions).
+    - **New data inputs** to make predictions on unseen transactions.
+- **Smart Watches & IoT**
+    - Smart watches use accelerometer data to detect activities like walking or running.
+    - IoT devices (e.g., smart home systems, toll collection, energy management) generate valuable data for analysis.
+- **Image Recognition & Deep Learning**
+    - Self-driving cars use deep learning to detect humans in images.
+    - Instead of traditional machine learning (which struggles with large image data), deep learning uses layers of neurons to extract patterns from massive datasets.
+    - Deep learning excels in tasks like image classification and language understanding.
+
+## Data Science Roles & Tools
+- **Data Science Roles Overview**
+    - Data science is not a single job; it consists of four main roles: **Data Engineer, Data Analyst, Data Scientist, and Machine Learning Scientist**.
+- **Data Engineer**
+    - Focuses on **data collection and storage** by building pipelines and infrastructure.
+    - **Tools:** SQL, Java/Scala/Python, Shell scripting, Cloud computing.
+- **Data Analyst**
+    - **Explores and visualizes data** to describe trends.
+    - **Focus:** Data **preparation, exploration, and visualization**.
+    - **Tools:** SQL, Spreadsheets, BI tools (Tableau, Power BI, Looker), Python/R (advanced users).
+- **Data Scientist**
+    - **Ex
+tracts insights and builds models** for prediction and forecasting.
+    - **Focus:** Data **preparation, exploration, experimentation, and prediction**.
+    - **Tools:** SQL, Python/R, data science libraries (pandas, tidyverse).
+- **Machine Learning Scientist**
+    - Specializes in **machine learning and deep learning**.
+    - **Focus:** Prediction, using training data to classify complex datasets.
+    - **Tools:** Python/R, machine learning libraries (TensorFlow, deep learning frameworks).

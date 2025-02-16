@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "d95641336feba69c",
+    "type": "split",
+    "children": [
+      {
+        "id": "755bfd1a0cdf468e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5160906751773a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Understanding Data Science/Introduction to Data Science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Data Science"
+            }
+          },
+          {
+            "id": "c20edee282b62c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Understanding Data Science/Introduction to Data Science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Data Science"
+            }
+          },
+          {
+            "id": "bbd23306f4a6da1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Understanding Data Science/Preparation, Exploration and Visualization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Preparation, Exploration and Visualization"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "862fc1d78ccf9539",
+    "type": "split",
+    "children": [
+      {
+        "id": "60e27ccd08e7182f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4307789867ff862f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e6a81f11a0113573",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b3fdcb11a84c3a97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ecd4911fa4c9ced4",
+    "type": "split",
+    "children": [
+      {
+        "id": "15ae24fa814dadde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "074d8ac2787f5797",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Courses/Understanding Data Science/Preparation, Exploration and Visualization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Preparation, Exploration and Visualization"
+            }
+          },
+          {
+            "id": "a2605057fdd934f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Courses/Understanding Data Science/Preparation, Exploration and Visualization.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Preparation, Exploration and Visualization"
+            }
+          },
+          {
+            "id": "5f59dfa425427758",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd50fbc3b27d956c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Courses/Understanding Data Science/Preparation, Exploration and Visualization.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Preparation, Exploration and Visualization"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bbd23306f4a6da1e",
+  "lastOpenFiles": [
+    "Courses/Understanding Data Science/Introduction to Data Science.md",
+    "Courses/Understanding Data Science/Preparation, Exploration and Visualization.md",
+    "Courses/Understanding Data Science/Data  Collection and Storage.md",
+    "Courses",
+    "DataCamp!.md",
+    "Courses/Understanding Data Science"
+  ]
+}
