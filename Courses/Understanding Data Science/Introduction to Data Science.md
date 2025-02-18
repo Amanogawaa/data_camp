@@ -43,8 +43,7 @@
     - **Focus:** Data **preparation, exploration, and visualization**.
     - **Tools:** SQL, Spreadsheets, BI tools (Tableau, Power BI, Looker), Python/R (advanced users).
 - **Data Scientist**
-    - **Ex
-tracts insights and builds models** for prediction and forecasting.
+    - **Extracts insights and builds models** for prediction and forecasting.
     - **Focus:** Data **preparation, exploration, experimentation, and prediction**.
     - **Tools:** SQL, Python/R, data science libraries (pandas, tidyverse).
 - **Machine Learning Scientist**
